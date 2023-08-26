@@ -33,3 +33,15 @@ C:\Users\matag\Downloads\TP8AguirreMatias\TP8AguirreMatias\Ejercicio\obj\Debug\E
 C:\Users\matag\Downloads\TP8AguirreMatias\TP8AguirreMatias\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
 C:\Users\matag\Downloads\TP8AguirreMatias\TP8AguirreMatias\Ejercicio\obj\Debug\Ejercicio.exe
 C:\Users\matag\Downloads\TP8AguirreMatias\TP8AguirreMatias\Ejercicio\obj\Debug\Ejercicio.pdb
+D:\Github\proyecto-final-.NET\Ejercicio\bin\Debug\Ejercicio.exe.config
+D:\Github\proyecto-final-.NET\Ejercicio\bin\Debug\Ejercicio.exe
+D:\Github\proyecto-final-.NET\Ejercicio\bin\Debug\Ejercicio.pdb
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.AgregarEmpleadoForm.resources
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.EditarEmpleadoForm.resources
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.exe
+D:\Github\proyecto-final-.NET\Ejercicio\obj\Debug\Ejercicio.pdb

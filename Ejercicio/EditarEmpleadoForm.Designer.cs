@@ -92,8 +92,10 @@
             // 
             // textDocument
             // 
+            this.textDocument.Enabled = false;
             this.textDocument.Location = new System.Drawing.Point(118, 160);
             this.textDocument.Name = "textDocument";
+            this.textDocument.ReadOnly = true;
             this.textDocument.Size = new System.Drawing.Size(136, 20);
             this.textDocument.TabIndex = 5;
             // 
