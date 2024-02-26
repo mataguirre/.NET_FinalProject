@@ -310,11 +310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matag\\OneDrive\\Documentos\\Empleados\\Empleados.csproj",
+      "projectUniqueName": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
       "projectName": "Empleados",
-      "projectPath": "C:\\Users\\matag\\OneDrive\\Documentos\\Empleados\\Empleados.csproj",
+      "projectPath": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
       "packagesPath": "C:\\Users\\matag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matag\\OneDrive\\Documentos\\Empleados\\obj\\",
+      "outputPath": "D:\\Github\\proyecto-final-.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matag\\AppData\\Roaming\\NuGet\\NuGet.Config",

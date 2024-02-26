@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C5jv1tlTmLtwijVUYbl9FJJSyq5oQ0dz8BqBQHmBWPwulM4E/TsKwHUBQOXdyA6A+sR9aKssI93Shthu1zKFiQ==",
+  "dgSpecHash": "5hFW+c06vzwWw8JsZAHT9xQS7GTt+UAU/KntNQKoZ7maCm1ebWH5l3SbyUyfrbGfS0Okz1efD1BUZCsMpylNpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matag\\OneDrive\\Documentos\\Empleados\\Empleados.csproj",
+  "projectFilePath": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matag\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
     "C:\\Users\\matag\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.8\\sqlitepclraw.bundle_e_sqlite3.2.1.8.nupkg.sha512",

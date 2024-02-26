@@ -20,4 +20,10 @@
     <PackageReference Include="SQLitePCLRaw.provider.e_sqlite3" Version="2.1.8" />
   </ItemGroup>
 
+  <ItemGroup>
+	<Content Include="Data\datasource.db">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+
 </Project>
