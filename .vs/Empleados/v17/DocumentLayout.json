@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Github\\proyecto-final-.NET\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{74AF375A-2DB1-48B6-B7B9-A024487045E6}|Empleados.csproj|d:\\github\\proyecto-final-.net\\services\\empleados\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74AF375A-2DB1-48B6-B7B9-A024487045E6}|Empleados.csproj|solutionrelative:services\\empleados\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmpleadoService.cs",
-              "DocumentMoniker": "D:\\Github\\proyecto-final-.NET\\Services\\Empleados\\EmpleadoService.cs",
-              "RelativeDocumentMoniker": "Services\\Empleados\\EmpleadoService.cs",
-              "ToolTip": "D:\\Github\\proyecto-final-.NET\\Services\\Empleados\\EmpleadoService.cs",
-              "RelativeToolTip": "Services\\Empleados\\EmpleadoService.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAmwF0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T01:12:51.392Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
