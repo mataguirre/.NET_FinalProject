@@ -1,1 +1,3 @@
 Proyecto final realizado para el curso de Desarrollador .NET. El mismo consta de un formulario que permite leer un listado de empleados, modificar, eliminar o agregar alguno específico, con la posibilidad de filtrar por el nombre de cada uno de ellos. Es un CRUD básico en el cual se puso en práctica todo lo visto en la cursada, todos estos datos se leen y se cargan desde una base de datos.
+
+Final project carried out for the .NET Developer course. It consists of a form that allows reading a list of employees, modifying, deleting, or adding a specific one, with the possibility of filtering by each of their names. It's a basic CRUD in which all the material seen in the course was put into practice, all this data is read and loaded from a database.
