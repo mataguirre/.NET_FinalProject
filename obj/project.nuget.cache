@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5hFW+c06vzwWw8JsZAHT9xQS7GTt+UAU/KntNQKoZ7maCm1ebWH5l3SbyUyfrbGfS0Okz1efD1BUZCsMpylNpA==",
+  "dgSpecHash": "NQUGejKKbTLgJ3zfbkvddtlH485tqazV3OvqZ1RZso7y+Vr/1s/hNToFUNlQmB78q5OIyS4V24p+s9MjGxbNQQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
+  "projectFilePath": "C:\\Users\\María José\\Desktop\\.NET_FinalProject\\Empleados.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\matag\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
-    "C:\\Users\\matag\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.8\\sqlitepclraw.bundle_e_sqlite3.2.1.8.nupkg.sha512",
-    "C:\\Users\\matag\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
-    "C:\\Users\\matag\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
-    "C:\\Users\\matag\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.8\\sqlitepclraw.provider.e_sqlite3.2.1.8.nupkg.sha512",
-    "C:\\Users\\matag\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\María José\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\María José\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.8\\sqlitepclraw.bundle_e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\María José\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\María José\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\María José\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.8\\sqlitepclraw.provider.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\María José\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

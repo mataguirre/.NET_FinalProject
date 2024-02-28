@@ -305,19 +305,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matag\\.nuget\\packages\\": {}
+    "C:\\Users\\María José\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
+      "projectUniqueName": "C:\\Users\\María José\\Desktop\\.NET_FinalProject\\Empleados.csproj",
       "projectName": "Empleados",
-      "projectPath": "D:\\Github\\proyecto-final-.NET\\Empleados.csproj",
-      "packagesPath": "C:\\Users\\matag\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\proyecto-final-.NET\\obj\\",
+      "projectPath": "C:\\Users\\María José\\Desktop\\.NET_FinalProject\\Empleados.csproj",
+      "packagesPath": "C:\\Users\\María José\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\María José\\Desktop\\.NET_FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\María José\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -339,9 +339,7 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -388,7 +386,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
